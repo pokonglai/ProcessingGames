@@ -1,6 +1,6 @@
 PrisonBreak
 ===============
-# Overview
+## Overview
 The player is an escaped convict. Prison security has shut down all power in order to keep the player
 locked in. This results in a pitch black prison. The prison guards are on patrol and randomly walk
 around the prison. If the player is within a certain radius of a guard, they guard will be able to see
@@ -17,7 +17,7 @@ single small projectile. As the projectile travels, it will illuminate a certain
 one second, the projectile will explode and illuminate a large radius for two seconds. The player can
 only fire the flare gun once every three seconds
 
-# Controls
+## Controls
 * **WASD** to move.
 * **Shift** to sprint.
 * **Left Mouse Button** to fire a flare.
